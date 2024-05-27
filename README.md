@@ -16,7 +16,7 @@ Untuk memperbaiki masalah ini, manajemen menugaskan Tim Data untuk melakukan per
 
 ## Tujuan
 
-Meningkatkan metrik conversion rate menjadi 15% melalui A/B testing.
+Meningkatkan metrik conversion rate menjadi 20% melalui A/B testing.
 
 ## Metodologi
 
